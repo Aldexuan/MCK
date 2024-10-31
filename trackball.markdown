@@ -1,8 +1,8 @@
 ---
 layout: default
-title: v1.0.0
+title: Trackball
 has_children: false
-parent: wired
+parent: Wired
 nav_order: 1
 ---
 

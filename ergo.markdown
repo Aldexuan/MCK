@@ -1,8 +1,8 @@
 ---
 layout: default
-title: v2.0.0
+title: Ergo
 has_children: false
-parent: wired
+parent: Wired
 nav_order: 2
 ---
 
