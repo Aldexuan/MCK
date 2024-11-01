@@ -8,18 +8,9 @@ nav_order: 1
 
 # PCB design:
 
-![Front](/static/images/v1_0_0/front.png){: width="50%" }
-![Back](/static/images/v1_0_0/back.png){: width="50%" }
+![Front](/static/trackball/39.jpeg){: width="50%" }
+![Front](/static/trackball/47.jpeg){: width="50%" }
+![Front](/static/trackball/59.jpeg){: width="50%" }
+
+[comment]: <> (![Back]&#40;/static/images/v1_0_0/back.png&#41;{: width="50%" })
 {: .d-flex .flex-justify-around}
-
-## Working:
-
-* Voltage regulator
-* User LED
-* All pinouts
-* I2C - with OLED
-* UART - Split communication
-* UART Half duplex on D0, D1, D2, D3
-* VUSB sense
-* RGB
-
