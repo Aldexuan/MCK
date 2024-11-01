@@ -35,7 +35,7 @@ color_scheme: "dark"
 plugins:
   - jekyll-feed
 
-footer_content: "@Aldexuan"
+footer_content: "&copy; Mega Mind @Aldexuan"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
