@@ -7,7 +7,7 @@ nav_order: 1
 ---
 ## Trackball系列键盘详情介绍
 <font size=3>1.Trackball系列是有线分体键盘，目前这个系列有三个不同配列，分别为39/47/59,具体图片在底部有展示</font><br/>
-<font size=3>2.39/47为全按键版本，没有旋钮</font><br/>
+<font size=3>2.39/47为全按键版本，没有旋钮</font>
 <font size=3>3.59配列的双旋钮部分可以自由选择，变成四个配列:(需要在下单时确定，后期不可更改)</font><br/>
 <font size=3>&emsp;&emsp;&emsp;59:双旋钮</font><br/>
 <font size=3>&emsp;&emsp;&emsp;60:左旋钮右按键(右旋钮换成按键)</font><br/>
