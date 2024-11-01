@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Wired
+title: ergo
 has_children: false
 parent: Wired
 nav_order: 2
 ---
-
+赶紧辉煌国际
 [comment]: <> (# PCB design:)
 
 [comment]: <> (![Front]&#40;/static/images/v2_0_0/front.png&#41;{: width="50%" })

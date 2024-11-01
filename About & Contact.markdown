@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Pinout
+title: About & Contact
 permalink: /About & Contact/
 has_children: false
 nav_order: 4
 ---
 
-# Pinout
+# 关于我们
 
 | Arduino | Pro Micro | STeMCell v1.0.0 | STeMCell v2.0.0 |
 |---------|-----------|-----------------|-----------------|
