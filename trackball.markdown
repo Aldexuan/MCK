@@ -7,11 +7,14 @@ nav_order: 1
 ---
 
 # PCB design:
-
+Trackball39:39键
 ![39](/static/trackball/39.jpeg){: width="100%" }
+Trackball47:47键
 ![47](/static/trackball/47.jpeg){: width="100%" }
+Trackball59:59键
 ![59](/static/trackball/59.jpeg){: width="100%" }
-{: .d-flex .flex-justify-around}
+
+[comment]: <> ({: .d-flex .flex-justify-around})
 
 [comment]: <> (![Back]&#40;/static/images/v1_0_0/back.png&#41;{: width="50%" })
 
