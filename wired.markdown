@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 有线键盘
+title: Wired
 has_children: true
 nav_order: 2
 ---

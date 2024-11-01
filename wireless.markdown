@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 无线键盘
+title: Wireless
 has_children: true
 nav_order: 3
 ---

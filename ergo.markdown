@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ergo
+title: Wired
 has_children: false
 parent: Wired
 nav_order: 2
