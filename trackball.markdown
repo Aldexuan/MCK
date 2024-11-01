@@ -6,13 +6,12 @@ parent: Wired
 nav_order: 1
 ---
 
-# PCB design:
 Trackball39:39键
-![39](/static/trackball/39.jpeg){: width="100%" }
+![39](/static/trackball/39.jpeg){: width="50%" }
 Trackball47:47键
-![47](/static/trackball/47.jpeg){: width="100%" }
+![47](/static/trackball/47.jpeg){: width="50%" }
 Trackball59:59键
-![59](/static/trackball/59.jpeg){: width="100%" }
+![59](/static/trackball/59.jpeg){: width="50%" }
 
 [comment]: <> ({: .d-flex .flex-justify-around})
 
