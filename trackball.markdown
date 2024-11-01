@@ -6,15 +6,10 @@ parent: Wired
 nav_order: 1
 ---
 
-Trackball39:39键
-![39](/static/trackball/39.jpeg){: width="50%" }
-Trackball47:47键
-![47](/static/trackball/47.jpeg){: width="50%" }
-Trackball59:59键
+Trackball39:39键<br/>
+![39](/static/trackball/39.jpeg){: width="50%" }<br/>
+Trackball47:47键<br/>
+![47](/static/trackball/47.jpeg){: width="50%" }<br/>
+Trackball59:59键<br/>
 ![59](/static/trackball/59.jpeg){: width="50%" }
 
-[comment]: <> ({: .d-flex .flex-justify-around})
-
-[comment]: <> (![Back]&#40;/static/images/v1_0_0/back.png&#41;{: width="50%" })
-
-[comment]: <> ({: .d-flex .flex-justify-around})
