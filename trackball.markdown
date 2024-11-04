@@ -27,7 +27,7 @@ nav_order: 1
 </div>
  
 
-## [点击进入轨迹球键值和说明](./Trackball Guide.html)
+## [点击进入轨迹球键值和说明](./Trackball Guide)
 
 ## 下面是各配列展示图：
 Trackball39:<br/>
