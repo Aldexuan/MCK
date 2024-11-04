@@ -80,11 +80,12 @@ key_code:<br/>
 
 
 ## 五：鼠标相关设置信息OLED显示
-
-&emsp;&emsp;1.默认OLED显示是上图这种，主手是右边打字猫猫，会根据打字速度变化形态，副手是左边最上边是键盘名称，中间是修饰键状态，按下对应修饰键会变色，再下面会显示当前切的层，如果开始自动切层功能，滚动轨迹球这个会自动变为 mouse层，停止滚动会变化原来所在的层。<br/>
+default画面:<br/>                                                 
+![oled1](/static/trackball/oled1.jpeg){: width="100%" }<br/> 
+&emsp;&emsp;1.默认OLED显示是上图这种，主手是右边Bongo Cat，会根据打字速度变化形态，副手是左边最上边是键盘名称，中间是修饰键状态，按下对应修饰键会变色，再下面会显示当前切的层，如果开始自动切层功能，滚动轨迹球这个会自动变为 mouse层，停止滚动会变化原来所在的层。最后是Luna小狗<br/>
 
 &emsp;&emsp;2.TIinfo:鼠标当前设置参数的显示开关，按下按键可以在右手主图显示当前鼠标的各项参数，下面是相关画面：<br/>
-oled:<br/>
+TIinfo画面:<br/>
 ![oled](/static/trackball/oled.jpeg){: width="100%" }<br/>
 &emsp;&emsp;&emsp;2-1：AutoL: 0或者1，代表关闭和开启自动切层<br/>
 &emsp;&emsp;&emsp;2-2：M-DPI：代表鼠标模式的当前dpi<br/>
