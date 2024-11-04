@@ -25,8 +25,11 @@ nav_order: 1
 <font size=3>9.支持Automatic Mouse Layer,切层停留时间可以自己调节，轨迹球触发Automatic Mouse Layer的滚动幅度阈值也可以调节</font><br/>
 <font size=3>10.增加Tinfo键值，按下该键可以在右手OLED屏幕上切换出当轨迹球各项设置具体数据</font><br/>
 </div>
+ 
 
-## `[轨迹球键值和操作说明](https://aldexuan.github.io/MCK/About%20&%20Contact/)`
+## [点击进入轨迹球键值和操作说明](https://aldexuan.github.io/MCK/wireless.html)
+## [点击进入轨迹球键值和操作说明](../wireless.markdown)
+
 ## 下面是各配列展示图：
 Trackball39:<br/>
 ![39](/static/trackball/39.jpeg){: width="50%" }<br/>
