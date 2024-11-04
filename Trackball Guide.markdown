@@ -14,7 +14,7 @@ nav_order: 4
 
 ## Trackball键盘轨迹球有17个关于轨迹球的自定义按键
 key_code:<br/>
-![key_code](/static/trackball/key_code.jpeg){: width="50%" }<br/>
+![key_code](/static/trackball/key_code.jpeg){: width="100%" }<br/>
 
 ## 一：鼠标模式(就是正常的鼠标移动)：
 1.16 个加减阶梯，以 200 DPI 为增量<br/>
@@ -84,16 +84,16 @@ key_code:<br/>
 1.默认OLED显示是上图这种，主手是右边打字猫猫，会根据打字速度变化形态，副手是左边最上边是键盘名称，中间是修饰键状态，按下对应修饰键会变色，再下面会显示当前切的层，如果开始自动切层功能，滚动轨迹球这个会自动变为 mouse层，停止滚动会变化原来所在的层。<br/>
 
 2.TIinfo:鼠标当前设置参数的显示开关，按下按键可以在右手主图显示当前鼠标的各项参数，下面是相关画面：<br/>
-
-
-2-1：AutoL: 0或者1，代表关闭和开启自动切层<br/>
-2-2：M-DPI：代表鼠标模式的当前dpi<br/>
-2-3：ATV: 显示的就是轨迹球触发灵敏度阈值，也就是通过 ATV 设置的值<br/>
-2-4：AUTO-MS：显示的就是轨迹球切层超时时间，也就是通过 A50, A50-, A100 设置的值<br/>
-2-5：SNP-T：0或者1，代表关闭和开启阻击模式<br/>
-2-6：SNP-DPI：代表当前阻击模式的dpi<br/>
-2-7：DRG-T：0或者1，代表关闭和开启滚动模式<br/>
-2-8：DRG-DPI：代表当前滚动模式的dpi<br/>
+oled:<br/>
+![oled](/static/trackball/key_code.jpeg){: width="100%" }<br/>
+&emsp;&emsp;&emsp;2-1：AutoL: 0或者1，代表关闭和开启自动切层<br/>
+&emsp;&emsp;&emsp;2-2：M-DPI：代表鼠标模式的当前dpi<br/>
+&emsp;&emsp;&emsp;2-3：ATV: 显示的就是轨迹球触发灵敏度阈值，也就是通过 ATV 设置的值<br/>
+&emsp;&emsp;&emsp;2-4：AUTO-MS：显示的就是轨迹球切层超时时间，也就是通过 A50, A50-, A100 设置的值<br/>
+&emsp;&emsp;&emsp;2-5：SNP-T：0或者1，代表关闭和开启阻击模式<br/>
+&emsp;&emsp;&emsp;2-6：SNP-DPI：代表当前阻击模式的dpi<br/>
+&emsp;&emsp;&emsp;2-7：DRG-T：0或者1，代表关闭和开启滚动模式<br/>
+&emsp;&emsp;&emsp;2-8：DRG-DPI：代表当前滚动模式的dpi<br/>
 
 注意事项：只需要在设置相关参数以及想查看轨迹球相关参数的时候使用 TIinfo 打开，日常使用可以关闭，切换到显示主图默认的打字猫猫，
 因为这个是单独切换的，如果不切换到默认OLED显示，会造成键盘空闲时主手OLED休眠同步不到副手，造成副手不休眠的情况
