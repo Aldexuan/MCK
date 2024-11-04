@@ -27,8 +27,7 @@ nav_order: 1
 </div>
  
 
-## [点击进入轨迹球键值和操作说明](https://aldexuan.github.io/MCK/wireless.html)
-## [点击进入轨迹球键值和操作说明](../wireless.markdown)
+## [点击进入轨迹球键值和说明](./Trackball Guide.html)
 
 ## 下面是各配列展示图：
 Trackball39:<br/>
