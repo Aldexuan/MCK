@@ -30,10 +30,10 @@ nav_order: 1
 ## [点击进入轨迹球键值和说明](./Trackball Guide)
 
 ## 下面是各配列展示图，图片只是配列示意图，具体外壳颜色和轨迹球球体颜色，以下单确认信息为准：
-Trackball39:<br/>
+## Trackball39:<br/>
 ![39](/static/trackball/39.jpeg){: width="100%" }<br/>
-Trackball47:<br/>
+## Trackball47:<br/>
 ![47](/static/trackball/47.jpeg){: width="100%" }<br/>
-Trackball59:<br/>
+## Trackball59:<br/>
 ![59](/static/trackball/59.jpeg){: width="100%" }<br/>
 
