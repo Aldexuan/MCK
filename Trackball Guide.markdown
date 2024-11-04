@@ -85,7 +85,7 @@ key_code:<br/>
 
 2.TIinfo:鼠标当前设置参数的显示开关，按下按键可以在右手主图显示当前鼠标的各项参数，下面是相关画面：<br/>
 oled:<br/>
-![oled](/static/trackball/key_code.jpeg){: width="100%" }<br/>
+![oled](/static/trackball/oled.jpeg){: width="100%" }<br/>
 &emsp;&emsp;&emsp;2-1：AutoL: 0或者1，代表关闭和开启自动切层<br/>
 &emsp;&emsp;&emsp;2-2：M-DPI：代表鼠标模式的当前dpi<br/>
 &emsp;&emsp;&emsp;2-3：ATV: 显示的就是轨迹球触发灵敏度阈值，也就是通过 ATV 设置的值<br/>
