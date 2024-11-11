@@ -22,7 +22,7 @@ nav_order: 1
 <font size=3>&emsp;&emsp;&emsp;旋钮为ec11，支持左右旋转和按下去，都可以自定义</font><br/>
 <font size=3>5.基于qmk固件兼容vial,相比于via和remap支持更多的设置，
   可以尽可能的发挥qmk固件的功能</font><br/>
-<font size=3>6.主控使用rp2040,支持rgb matrix矩阵灯光</font><br/>
+<font size=3>6.主控使用rp2040,支持rgb matrix矩阵灯光,支持6层LAYER</font><br/>
 <font size=3>7.OLED屏幕，左手Luna小狗,动作会跟随不同的按键做出变化，会显示当前layer，以及当前触发的修饰键；右手Bongo Cat会根据打字速度变化形态,
 同时右手屏幕支持通过Tinfo按键切换到轨迹球参数页面,观看当前轨迹球各项参数设置</font><br/>
 <font size=3>8.轨迹球支持鼠标模式(正常鼠标一样移动)，阻击模式(以较低的dpi移动)，滚动模式(支持水平滚动和垂直滚动)</font><br/>
