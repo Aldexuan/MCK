@@ -25,9 +25,10 @@ nav_order: 1
 <font size=3>6.主控使用rp2040,支持rgb matrix矩阵灯光,支持6层LAYER</font><br/>
 <font size=3>7.OLED屏幕，左手Luna小狗,动作会跟随不同的按键做出变化，会显示当前layer，以及当前触发的修饰键；右手Bongo Cat会根据打字速度变化形态,
 同时右手屏幕支持通过Tinfo按键切换到轨迹球参数页面,观看当前轨迹球各项参数设置</font><br/>
-<font size=3>8.轨迹球支持鼠标模式(正常鼠标一样移动)，阻击模式(以较低的dpi移动)，滚动模式(支持水平滚动和垂直滚动)</font><br/>
-<font size=3>9.支持Automatic Mouse Layer,切层停留时间可以自己调节，轨迹球触发Automatic Mouse Layer的滚动幅度阈值也可以调节</font><br/>
+<font size=3>8.轨迹球支持鼠标模式(正常鼠标一样移动)，阻击模式(以较低的dpi移动)，滚动模式(相当于正常鼠标中间的滚轮,支持水平滚动和垂直滚动)</font><br/>
+<font size=3>9.支持Automatic Mouse Layer(自动切层),切层后停留在鼠标层时间可以自己调节，轨迹球触发Automatic Mouse Layer的滚动幅度阈值也可以调节</font><br/>
 <font size=3>10.增加Tinfo键值，按下该键可以在右手OLED屏幕上切换出当轨迹球各项设置具体数据</font><br/>
+<font size=3>11.上述关于轨迹球的描述还是有疑惑的地方，可以点击下面的链接，进入轨迹球讲解详情页，了解更详细的信息</font><br/>
 </div>
  
 
