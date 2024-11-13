@@ -10,6 +10,7 @@ nav_order: 1
 <div>
 &emsp;&emsp;&emsp;1.连接电脑的数据线要插在右手有轨迹球的那一侧<br/>
 &emsp;&emsp;&emsp;2.拔插中间的连接线需要先把连接电脑的数据线拔掉，不要带电拔插，不管是插上还是拔掉，都要在数据线没有连接电脑的情况下，因为带电拔插会打坏主控,导致一半的键盘不能使用<br/>
+&emsp;&emsp;&emsp;3.不要再要keymap数据了，支持vial，买家可以自己定义自己的keymap,没有固定的keymap,自己拿到手自己设计keymap<br/>
 
 <font size=3>1.Trackball系列是有线分体键盘，目前这个系列有三个不同配列，分别为39/47/59,具体配列图片在底部有展示，请下滑到最下面</font><br/>
 <font size=3>2.Trackball系列是主键区仅支持mx开关，拇指区支持mx开关和choc v1/v2 开关(拇指区类型需要在下单的时候选择，后期不可更改)</font><br/>
@@ -19,7 +20,8 @@ nav_order: 1
 <font size=3>&emsp;&emsp;&emsp;60:左旋钮右按键(右旋钮换成按键)</font><br/>
 <font size=3>&emsp;&emsp;&emsp;60:左按键右旋钮(左旋钮换成按键)</font><br/>
 <font size=3>&emsp;&emsp;&emsp;61:全按键(双旋钮都换成按键)</font><br/>
-<font size=3>&emsp;&emsp;&emsp;旋钮为ec11，支持左右旋转和按下去，都可以自定义</font><br/>
+<font size=3>&emsp;&emsp;&emsp;旋钮为ec11，支持左旋转和右旋转和点击，左旋转和右旋转和点击的功能都可以分别定义每一个的功能，没有固定功能，不要问能不能调节音量，能不能进行翻页，都可以，实在不理解意思的，
+最简单的描述就是你把它当做三个按键就行，按键怎么玩这个就怎么玩，实在不理解就选购61全按键版本</font><br/>
 <font size=3>5.基于qmk固件兼容vial,相比于via和remap支持更多的设置，
   可以尽可能的发挥qmk固件的功能</font><br/>
 <font size=3>6.主控使用rp2040,支持rgb matrix矩阵灯光,支持6层LAYER</font><br/>
