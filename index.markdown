@@ -1,10 +1,10 @@
 ---
 layout: default
-title: MCK厂牌定位
+title: MCKLab
 has_children: false
 nav_order: 1
 ---
-MCK：Mortal Custom Keybaords & DIY Kits
+MCK：Mortal Custom Keybaords & DIY Kits - Lab
 <br/>
-返璞归真
+做一些非常规键盘
 
