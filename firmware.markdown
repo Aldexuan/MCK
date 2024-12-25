@@ -5,7 +5,9 @@ permalink: /firmware/
 has_children: false
 nav_order: 7
 ---
-## [点击获取固件](/static/trackball/59_vial_3360.uf2)
+## [点击获取39固件](/static/trackball/39_vial_3360.uf2)
+## [点击获取47固件](/static/trackball/47_vial_3360.uf2)
+## [点击获取59固件](/static/trackball/59_vial_3360.uf2)
 <br/>
 
 写入固件：<br/>
