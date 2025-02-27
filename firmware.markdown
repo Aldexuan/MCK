@@ -8,6 +8,8 @@ nav_order: 7
 ## [点击获取39固件](/static/trackball/39-new.uf2)
 ## [点击获取47固件](/static/trackball/47_vial_3360.uf2)
 ## [点击获取59固件](/static/trackball/59-NEW.uf2)
+
+## [点击获取59_ctc固件](/static/trackball/59_13_vial.uf2)
 <br/>
 
 写入固件：<br/>
