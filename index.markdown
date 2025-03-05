@@ -1,10 +1,12 @@
 ---
 layout: default
-title: MCKLab
+title: MCK-Workshop
 has_children: false
 nav_order: 1
 ---
-MCK：Mortal Custom Keybaords & DIY Kits - Lab
+MCK：Mortal Custom Keybaords & DIY Kits - Workshop
 <br/>
-做一些非常规键盘
+Mortal Custom Keyboards & DIY Kits is primarily a workshop focused on offering customizable keyboards and kits to the general public. 
+<br/>
+We aim to continue developing and releasing an even wider range of keyboard options in the future.
 
