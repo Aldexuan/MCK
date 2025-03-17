@@ -16,7 +16,7 @@ v2:ctc版本：
 ## [点击获取59_ctc固件](/static/trackball/59ctc_vial.uf2)
 
 
-## [点击获取59_13_vial固件](/static/trackball/59_13_vial.uf2)
+## [点击获取59_13_vial固件(旧版单独固件)](/static/trackball/59_13_vial.uf2)
 <br/>
 
 写入固件：<br/>
