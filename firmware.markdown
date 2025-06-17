@@ -11,9 +11,10 @@ v1:trs版本
 ## [点击获取59固件](/static/trackball/59_trs.uf2)
 
 v2:ctc版本：
-## [点击获取39_ctc固件](/static/trackball/39_ctc.uf2)
-## [点击获取47_ctc固件](/static/trackball/47_ctc.uf2)
-## [点击获取59_ctc固件](/static/trackball/59ctc.uf2)
+## [点击获取39_ctc固件](/static/trackball/ctc/39_ctc_vial.uf2)
+## [点击获取44_ctc固件](/static/trackball/ctc/44_ctc_vial.uf2)
+## [点击获取47_ctc固件](/static/trackball/ctc/47_ctc_vial.uf2)
+## [点击获取59_ctc固件](/static/trackball/ctc/59_ctc_vial.uf2)
 
 
 ## [点击获取59_13_vial固件(旧版单独固件)](/static/trackball/59_13_vial.uf2)
@@ -29,4 +30,3 @@ v2:ctc版本：
 6.拿出另一个键盘，按上述操作再来一遍<br/>
 7.两个键盘都单独操作，刷好固件就可以了<br/>
 8.刷好固件后还是跟以前一样正常使用键盘，先插中间的连接线，再插入电脑的数据线<br/>
-
