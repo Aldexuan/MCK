@@ -3,7 +3,7 @@ layout: default
 title: Trackball Guide
 has_children: false
 parent: Product Description
-nav_order: 4
+nav_order: 10
 ---
 ## 请认真看完玩法说明，关于轨迹球所有的用法都在这里，建议把这里从头到尾都看完
 
