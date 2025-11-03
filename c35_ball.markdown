@@ -17,7 +17,7 @@ nav_order: 9
 
  
 
-## [点击进入轨迹球键值和说明，可以了解关于轨迹球的玩法](./Trackball Guide)
+## [点击进入轨迹球键值和说明，可以了解关于轨迹球的玩法](./C35 Guide)
 ## [点击进入vial改建软件，用来自定义按键](./vial)
 ## [点击进入键盘源码页面](https://github.com/Aldexuan/firmware)
 
