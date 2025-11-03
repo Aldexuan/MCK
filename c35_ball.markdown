@@ -19,7 +19,7 @@ nav_order: 9
 
 ## [点击进入轨迹球键值和说明，可以了解关于轨迹球的玩法](./C35 Guide)
 ## [点击进入vial改建软件，用来自定义按键](./vial)
-## [点击进入键盘源码页面](https://github.com/Aldexuan/firmware)
+## [点击进入键盘源码页面](https://github.com/Aldexuan/C35_Ball)
 
 ## 下面只是展示图，具体外壳颜色和轨迹球球体颜色，以及是否是成品等以下单确认信息为准：
 ![白色1](/static/c35/c35_1.jpg){: width="100%" }<br/>
