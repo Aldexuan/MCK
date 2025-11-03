@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trackball
+title: C35
 has_children: false
 parent: Wired
 nav_order: 9
