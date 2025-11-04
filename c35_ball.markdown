@@ -6,7 +6,7 @@ parent: Wired
 nav_order: 9
 ---
 ## C35 Ball 键盘详情介绍
-
+* C35 Ball 有线键盘
 * 基于qmk固件兼容vial,相比于via和remap支持更多的设置， 可以尽可能的发挥qmk固件的功能<br/>
 * 主控使用rp2040,支持rgb matrix矩阵灯光,支持10层LAYER, 全部按键支持rgb灯光<br/>
 * 中间包裹轨迹球外围的是一个超大编码器(旋钮)，支持左旋转和右旋转,功能可以使用vial设置<br/>
