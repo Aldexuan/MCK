@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C35
+title: C35 Ball
 has_children: false
 parent: Wired
 nav_order: 9
