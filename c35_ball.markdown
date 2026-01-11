@@ -3,7 +3,6 @@ layout: default
 title: C35
 has_children: false
 parent: Wired
-nav_order: 9
 ---
 ## C35 Ball 键盘详情介绍
 

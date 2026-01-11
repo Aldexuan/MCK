@@ -3,7 +3,6 @@ layout: default
 title: Trackball
 has_children: false
 parent: Wired
-nav_order: 9
 ---
 ## Trackball系列键盘详情介绍
 ## 注意事项：<br/>
