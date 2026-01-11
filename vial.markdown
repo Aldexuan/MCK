@@ -1,9 +1,8 @@
 ---
 layout: default
 title: vial
-permalink: /vial/
 has_children: false
-nav_order: 8
+parent: Keymap Editing
 ---
 vial在线地址：
 ~~~

@@ -3,7 +3,7 @@ layout: default
 title: firmware
 permalink: /firmware/
 has_children: false
-nav_order: 7
+nav_order: 6
 ---
 v1:trs版本
 ## [点击获取39固件](/static/trackball/39-new.uf2)
