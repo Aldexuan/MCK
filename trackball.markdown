@@ -27,8 +27,13 @@ parent: Wired
 * * 1：全部都是mx开关； 
 * * 2：全部都是凯华choc v1/v2 矮轴开关； 
 * * 3：主键位mx开关，拇指区凯华choc v1/v2 矮轴开关<br/>
-* 39/44/47/ 61为全按键版本，没有旋钮<br/>
+* 39/44/47/61为全按键版本，没有旋钮<br/>
 * 59配列有双旋钮<br/>
+* 轨迹球可选：
+* * 直径25mm四氟球
+* * 直径34mm轨迹球
+* * 全矮轴版本，除非特意指定，否则默认都是：直径25mm四氟球
+* * 正常轴体版本，除非特意指定，否则默认都是：直径34mm轨迹球
 <br/>
 * 基于qmk固件兼容vial,相比于via和remap支持更多的设置， 可以尽可能的发挥qmk固件的功能<br/>
 * 主控使用rp2040,支持rgb matrix矩阵灯光,支持10层LAYER, 全部按键支持rgb灯光，没有底灯，rgb是下灯位(如果不了解下灯位什么意思，不用纠结，这个是给那些了解的人看的,因为有些人不喜欢上灯位)<br/>
@@ -42,18 +47,18 @@ parent: Wired
  
 
 ## [点击进入轨迹球键值和说明，可以了解关于轨迹球的玩法](./Trackball Guide)
-## [点击进入vial改建软件，用来自定义按键](./vial)
+## [点击进入vial改键软件，用来自定义按键](./vial)
 ## [点击进入键盘源码页面](https://github.com/Aldexuan/firmware)
 
 ## 下面是各配列展示图，图片只是配列示意图，具体外壳颜色和轨迹球球体颜色，以下单确认信息为准：
 ## Trackball39:<br/>
-![39](/static/trackball/layout/39.png){: width="100%" }<br/>
+![39](static/trackball/layout/39.png){: width="100%" }<br/>
 ## Trackball44:<br/>
-![44](/static/trackball/layout/44.png){: width="100%" }<br/>
+![44](static/trackball/layout/44.png){: width="100%" }<br/>
 ## Trackball47:<br/>
-![47](/static/trackball/layout/47.png){: width="100%" }<br/>
+![47](static/trackball/layout/47.png){: width="100%" }<br/>
 ## Trackball59:<br/>
-![59](/static/trackball/layout/59_encoder.png){: width="100%" }<br/>
+![59](static/trackball/layout/59_encoder.png){: width="100%" }<br/>
 ## Trackball61:<br/>
-![59](/static/trackball/layout/61.png){: width="100%" }<br/>
+![61](static/trackball/layout/61.png){: width="100%" }<br/>
 
